@@ -1,0 +1,8 @@
+name: snapchat-filters
+channels:
+  - conda-forge
+dependencies:
+  - tensorflow
+  - jupyter
+  - numpy
+  - matplotlib
